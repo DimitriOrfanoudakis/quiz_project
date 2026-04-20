@@ -1,0 +1,104 @@
+{
+  "fragen": [
+    {
+      "id": 1,
+      "text": "Was ist die Hauptstadt von Frankreich?",
+      "antworten": [
+        {"text": "London", "richtig": false},
+        {"text": "Paris", "richtig": true},
+        {"text": "Berlin", "richtig": false},
+        {"text": "Rom", "richtig": false}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Welcher Planet ist der größte in unserem Sonnensystem?",
+      "antworten": [
+        {"text": "Venus", "richtig": false},
+        {"text": "Saturn", "richtig": false},
+        {"text": "Jupiter", "richtig": true},
+        {"text": "Mars", "richtig": false}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "In welchem Jahr fiel die Berliner Mauer?",
+      "antworten": [
+        {"text": "1987", "richtig": false},
+        {"text": "1989", "richtig": true},
+        {"text": "1991", "richtig": false},
+        {"text": "1985", "richtig": false}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Welcher ist der längste Fluss der Welt?",
+      "antworten": [
+        {"text": "Amazonas", "richtig": false},
+        {"text": "Nil", "richtig": true},
+        {"text": "Yangzte", "richtig": false},
+        {"text": "Donau", "richtig": false}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Wie viele Kontinente gibt es?",
+      "antworten": [
+        {"text": "5", "richtig": false},
+        {"text": "6", "richtig": false},
+        {"text": "7", "richtig": true},
+        {"text": "8", "richtig": false}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Welcher Künstler malte die Mona Lisa?",
+      "antworten": [
+        {"text": "Vincent van Gogh", "richtig": false},
+        {"text": "Pablo Picasso", "richtig": false},
+        {"text": "Leonardo da Vinci", "richtig": true},
+        {"text": "Michelangelo", "richtig": false}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Welches ist das bevölkerungsreichste Land der Welt?",
+      "antworten": [
+        {"text": "Indien", "richtig": true},
+        {"text": "China", "richtig": false},
+        {"text": "USA", "richtig": false},
+        {"text": "Indonesien", "richtig": false}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Wie viele Saiten hat eine Standard-Gitarre?",
+      "antworten": [
+        {"text": "4", "richtig": false},
+        {"text": "5", "richtig": false},
+        {"text": "6", "richtig": true},
+        {"text": "7", "richtig": false}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Welcher ist der höchste Berg der Welt?",
+      "antworten": [
+        {"text": "K2", "richtig": false},
+        {"text": "Mount Everest", "richtig": true},
+        {"text": "Kilimandscharo", "richtig": false},
+        {"text": "Denali", "richtig": false}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "In welchem Jahr landeten Menschen erstmals auf dem Mond?",
+      "antworten": [
+        {"text": "1965", "richtig": false},
+        {"text": "1967", "richtig": false},
+        {"text": "1969", "richtig": true},
+        {"text": "1971", "richtig": false}
+      ]
+    }
+  ]
+}

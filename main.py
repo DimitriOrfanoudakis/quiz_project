@@ -1,3 +1,6 @@
-from gui import QuizInterface
+from logic import QuizLogic
 
-print(" Das ist unsere Main Datei, hier wird die GUI gestartet ")
+Quiz = QuizLogic("testfragen.json")
+test = Quiz.get_question()
+
+print(test)
